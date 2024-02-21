@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mazin Abo-Elsaud</h1>
 <h3 align="center">AI Developer | Data Scientist | NLP Engineer</h3>
 
+
+- 👨🏻‍🎓 Bachelor of Computer Science
+
 - 🔭 I’m currently working on **NLP Research and AI Solutions**
 
 - 🌱 I’m currently learning **Reinforcement Learning Human Feedback**
