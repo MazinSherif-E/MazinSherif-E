@@ -2,7 +2,7 @@
 <h3 align="center">AI Developer | Data Scientist | NLP Engineer</h3>
 
 
-- 👨🏻‍🎓 Bachelor of Computer Science
+- 🎓 Bachelor of Computer Science
 
 - 🔭 I’m currently working on **NLP Research and AI Solutions**
 
