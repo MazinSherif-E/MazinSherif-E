@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mazin.sherif100@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KbMkzWU_ESGjQSIA8t_bLw8wT9tjVe94/view?usp=sharing…](https://drive.google.com/file/d/1KbMkzWU_ESGjQSIA8t_bLw8wT9tjVe94/view?usp=sharing…)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14JFA1aZt0hY44Trqtov5PVtyw2kbcK8z/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
